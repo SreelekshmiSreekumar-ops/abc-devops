@@ -1,1 +1,1 @@
-echo ' Build success from CI/CD pipeline'
+echo '🚀 Build success from CI/CD pipeline'
